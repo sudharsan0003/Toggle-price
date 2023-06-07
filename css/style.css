@@ -230,6 +230,7 @@ body {
     margin: 2rem;
     justify-content: center;
     align-items: center;
+    overflow: hidden;
   }
 
   .card-1{
@@ -261,6 +262,7 @@ body {
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    overflow: hidden;
   }
 
   .card-1{
