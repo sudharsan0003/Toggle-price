@@ -189,7 +189,7 @@ body {
 }
 
 
-@media screen and (min-width :375px ){
+@media(min-width :375px ){
   .container{
     display: flex;
     flex-direction: column;
@@ -222,7 +222,7 @@ body {
   }
 }
 
-@media screen and (min-width :425px ){
+@media(min-width :425px ){
   .container{
     display: flex;
     flex-direction: column;
@@ -255,7 +255,7 @@ body {
   }
 }
 
-@media screen and (min-width :1024px ){
+@media(min-width :1024px ){
   .hero-section{
     display: flex;
     flex-direction: row;
